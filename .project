@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>2048GameTester</name>
-			<type>2</type>
-			<location>C:/Users/Arthur/Documents/GitHub/2048GameTester</location>
-		</link>
-	</linkedResources>
 </projectDescription>
